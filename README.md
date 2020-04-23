@@ -1,2 +1,2 @@
-# insoler.github.io
+# rishabh-karmakar.me
 Github website
